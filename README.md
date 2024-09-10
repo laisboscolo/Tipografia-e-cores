@@ -4,7 +4,10 @@
 
 * O site da Vivara se destaca pela combinação de design elegante e funcionalidade eficiente. A paleta de cores é sofisticada, imagens de alta qualidade e a fonte bem escolhida criam uma experiência visual que combina e é refinada. A navegação intuitiva e garante uma experiência de compra agradável em qualquer dispositivo. Detalhes como vídeos e informações completas sobre os produtos ajudam a interação, refletindo a qualidade e o prestígio da marca.
 
-  # Site 2:AliExpress ![image](https://github.com/user-attachments/assets/62739b4e-8ce1-4b7c-9486-d66a58a13817)
+  # Site 2:AliExpress ![image](https://github.com/user-attachments/assets/0096cc55-11ee-4aee-806f-ce03d90fc7a9)
+
+* O site do AliExpress é considerado feio devido ao seu design confuso e carregado. A paleta de cores vibrantes e fora de ordem, a organização desordenada e a abundância de anúncios podem sobrecarregar o usuário e dificultar a navegação. A tipografia e o layout desatualizados, além da falta de uma estrutura visual clara, contribuem para uma experiência de compra menos agradável e intuitiva.
+
 
 
  
